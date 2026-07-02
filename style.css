@@ -254,7 +254,7 @@ nav{
     background-repeat: no-repeat;
 
     width: 100%;
-    min-height: auto;
+    min-height: 75vh;
 
     display: flex;
     flex-direction: column;
