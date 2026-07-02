@@ -39,7 +39,7 @@ nav{ position:sticky;
     color:#222;
     font-size:1rem;
     max-width:100%;
-    padding:0 30px;
+    padding:20px;
 
 }
 
@@ -254,7 +254,7 @@ nav{
     background-repeat: no-repeat;
 
     width: 100%;
-    min-height: 75vh;
+    min-height: auto;
 
     display: flex;
     flex-direction: column;
